@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{89f79784-4aca-461e-b94d-f13415aa7326}" Title="PongClone" RuntimeType="XNA" Version="1.0.0.0" Genre="Apps.Game" Author="" Description="" Publisher="">
+  <App xmlns="" ProductID="{89f79784-4aca-461e-b94d-f13415aa7326}" Title="PongClone" RuntimeType="XNA" Version="1.0.0.0" Genre="Apps.Game" Author="Akshay Sharma" Description="" Publisher="">
     <IconPath IsRelative="true" IsResource="false"></IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
